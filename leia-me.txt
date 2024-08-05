@@ -1,0 +1,13 @@
+KeySafe
+v1.7
+Limitações:
+● O limite de senhas pode variar de 50 a 60 senhas.
+● Não há um contador desse limite, portanto atente-se a quantidade de senhas.
+
+///////////////////////////////////////////////////////////////
+É importante:
+● Não realizar mudanças diretamente no arquivo .txt, para evitar problemas colaterais;
+● Todo .txt gerado será salvo no mesmo local em que o programa se encontra;
+● Atentar-se com substituições do arquivo ao passar o “backup_registro” para outro
+dispositivo. Caso quiser que ele se torne o registro oficial, nomear “registro.txt”.
+●Executar o arquivo chamado "KeySafe" ou seu atalho.
